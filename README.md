@@ -1,1 +1,1 @@
-# putlizer-predictions
+# pulitzer-predictions
